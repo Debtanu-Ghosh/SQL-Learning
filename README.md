@@ -1,1 +1,1 @@
-# SQL-Learning
+# SQL-Tasks CS50
